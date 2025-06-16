@@ -11,6 +11,6 @@ This repository contains the source code and demos for the tasks completed as pa
 
 ## Contact
 **Aditya Singh**  
-Email: your.email@example.com  
-LinkedIn: [linkedin.com/in/aditya-singh](#)  
-GitHub: [github.com/your-username](#)
+Email: adityasingh1464@gmail.com
+LinkedIn: [[linkedin.com/in/aditya1464](https://www.linkedin.com/in/aditya1464/)](#)  
+GitHub: [[github.com/Aditya1464](https://github.com/Aditya1464/)](#)
